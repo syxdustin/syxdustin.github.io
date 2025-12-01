@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 40px;
     color: rgb(253, 240, 213);
-    background-color: limegreen;}
+    background-color: #9CAD83;}
 table {
     width: 100%;
     border-collapse: collapse;
@@ -12,7 +12,7 @@ td {
     padding: 8px;
 }
 h1, h2, h3{
-    color: rgb(0, 78, 43);
+    color: #81674e;
     margin-bottom: 5px;
 }
 hr {
