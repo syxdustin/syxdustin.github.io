@@ -42,6 +42,7 @@ p {
   display: block;
   /* center the images inside the blobs */
   text-align: center;
+  border-radius: 2%;
 }
 .project p {
   /* center the p text in the blob */
