@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: rgb(253, 240, 213);
+    background-color: limegreen;}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    vertical-align: top;
+    padding: 8px;
+}
+h1, h2, h3{
+    color: rgb(0, 78, 43);
+    margin-bottom: 5px;
+}
+hr {
+    border: 0;
+    border-top: 2px solid rgb(3, 4, 94);
+    margin: 10px 0 20px 0;
+}
